@@ -1,3 +1,23 @@
+@import "./plugins/flash.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    html {
+        @apply h-full
+    }
+
+    body {
+        @apply min-h-full grid
+    }
+
+    #app {
+        @apply flex flex-col
+    }
+
+    strong {
+        @apply font-semibold
+    }
+}

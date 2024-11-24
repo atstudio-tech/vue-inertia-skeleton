@@ -12,7 +12,7 @@
         "noEmit": true,
         "skipLibCheck": true,
         "paths": {
-            "@/*": ["./resources/js/*"],
+            "@/*": ["./resources/*"],
             "ziggy-js": ["./vendor/tightenco/ziggy"]
         }
     },

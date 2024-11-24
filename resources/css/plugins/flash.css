@@ -1,0 +1,11 @@
+.vue-notification-group.vue-notification-group {
+    @apply mt-6 mr-4 !w-full max-w-sm;
+}
+
+.vue-notification-wrapper.vue-notification-wrapper {
+    @apply overflow-visible;
+}
+
+.vue-notification-wrapper + .vue-notification-wrapper {
+    @apply mt-4;
+}
