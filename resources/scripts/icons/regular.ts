@@ -1,43 +1,5 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
 
-import {
-    faArrowRightToBracket,
-    faBars,
-    faBook,
-    faCalendarDay,
-    faClock,
-    faDownload,
-    faEllipsisStrokeVertical,
-    faEnvelope,
-    faFileInvoice,
-    faFireFlameCurved,
-    faFolderUser,
-    faGauge,
-    faKey,
-    faReceipt,
-    faShare,
-    faStar,
-    faUserPlus,
-    faUsers,
-} from '@fortawesome/pro-regular-svg-icons'
+// import {} from '@fortawesome/pro-regular-svg-icons'
 
-library.add(
-    faArrowRightToBracket,
-    faBars,
-    faBook,
-    faCalendarDay,
-    faClock,
-    faDownload,
-    faEllipsisStrokeVertical,
-    faEnvelope,
-    faFileInvoice,
-    faFireFlameCurved,
-    faFolderUser,
-    faGauge,
-    faKey,
-    faReceipt,
-    faShare,
-    faStar,
-    faUserPlus,
-    faUsers,
-)
+// library.add()
