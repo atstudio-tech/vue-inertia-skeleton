@@ -1,5 +1,5 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
 
-import { faBookOpenReader } from '@fortawesome/pro-duotone-svg-icons'
+// import {  } from '@fortawesome/pro-duotone-svg-icons'
 
-library.add(faBookOpenReader)
+// library.add()
