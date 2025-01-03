@@ -9,6 +9,9 @@ export default defineConfig({
     resolve: {
         alias: {
             '@': '/resources',
+            '@scripts': '/resources/scripts',
+            '@views': '/resources/views',
+            '@Layouts': '/resources/views/Layouts',
         },
     },
     plugins: [
