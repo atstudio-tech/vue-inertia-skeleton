@@ -25,7 +25,7 @@ createServer(page =>
             return createSSRApp({ render: () => h(App, props) })
                 .use(plugin)
                 .use(FloatingVue, { distance: 8 })
-                .use(trail, { routes })
+                .use(trail, { routes, url: props.initialPage.url })
         },
     }),
 )
