@@ -7,7 +7,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "atstudio-tech/enums": "dev-main",
+        "atstudio-tech/laravel-enums": "^1.0",
         "based/momentum-lock": "^0.3.0",
         "based/momentum-trail": "^0.3.0",
         "inertiajs/inertia-laravel": "^2.0",
